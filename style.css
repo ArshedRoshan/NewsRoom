@@ -1,0 +1,254 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+.nav-link{
+    margin-left: 14px;
+}
+#navbarNav li a{
+  color: black;
+}
+.search{
+   position: relative;
+   right: 0;
+}
+.mid-section h1{
+    font-size: 50px;
+    color: #666;
+}
+.mid-section h2{
+    padding-top: 50px;
+    font-size: 24px;
+    color: #666;
+    word-spacing: 10px;
+}
+.news-items-img{
+    background-image: url(https://about.fb.com/wp-content/uploads/2022/06/NFTs_A-Beginners-Guide_Thumbnail.gif?fit=1440%2C1080);
+    height: 381px;
+    width: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+      cursor: pointer;
+}
+.news-items h5{
+    padding-bottom: 7px;
+    display: table;
+    border-bottom: 1px solid #0064e0;
+    border-width: 2px;
+    padding-top: 20px;
+    letter-spacing: 2px;
+    font-weight: lighter;
+    cursor: pointer;
+}
+.news-items h1{
+    font-size: 36px;
+    line-height: 43px;
+    letter-spacing: 1.8px !important;
+    cursor: pointer;
+    color: black;
+    padding-top: 10px;
+}
+.news-items h1:hover{
+    color: gray;
+}
+.news-items p{
+    font-size: 1rem;
+    color: #666;
+}
+.news-items{
+    font-size: 1rem;
+    color: #666;
+}
+.news-items-right h5{
+    padding-top:0px ;
+}
+.news-items-right h3{
+color: black;
+font-size: 18px;
+}
+.news-items-right p{
+    font-size: 15px;
+
+}
+.image{
+    background-image: url(	https://about.fb.com/wp-content/uploads/2022/07/Project-Simile_Thumbnail.jpg?fit=1440%2C1080);
+    background-size: cover;
+    height: 202px;
+    width: 269px;
+}
+.image1{
+    background-image: url(	https://about.fb.com/wp-content/uploads/2022/07/New-AI-Model-Translates-200-Languages-Making-Technology-Accessible-to-More-People_Thumbnail.jpg?fit=1440%2C1080);
+    background-size: cover;
+    height: 202px;
+}
+.image2{
+    background-image: url(https://about.fb.com/wp-content/uploads/2022/06/Helping-Creators-Build-a-Business-Now_And-for-the-Metaverse_Thumbnail.jpg?fit=1409%2C1080);
+    background-size: cover;
+    height: 202px;
+}
+.mid-section2{
+    background-color: #ede8e8;
+    margin-top: 70px;
+    
+}
+.image3{
+    background-image: url(https://about.fb.com/wp-content/uploads/2022/06/CD22_386_Metaverse-Culture-Series-Pride_How-Intersectional-LGBTQ-Leaders-Envision-a-Safe-Space-in-the-Metaverse_Thumbnail.jpg?fit=1440%2C1080);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 498px;
+    width: 102%;
+}
+.left-mid-section h5{
+    display: table;
+    border-bottom: 1px solid #0064e0;
+    border-width: 2px;
+    cursor: pointer;
+}
+.left-mid-section h3{
+    font-size: 30px;
+}
+.image4{
+    background-image: url(https://about.fb.com/wp-content/uploads/2022/07/CV_-Ping-Pong-Parkinson_Thumbnail.jpg?fit=1440%2C1080);
+      background-size: cover;
+    height: 202px;
+    width: 269px;
+}
+.mid-section-3{
+    padding: 100px 0px;
+}
+.image5{
+    background-image: url(	https://about.fb.com/wp-content/uploads/2022/06/Combatting-Clone-Sites_Thumbnail.jpg?fit=1080%2C1080);
+      background-size: cover;
+    height: 202px;
+    width: 269px;
+}
+.image6{
+    background-image: url(	https://about.fb.com/wp-content/uploads/2022/06/Meta-and-Chime-File-Joint-Lawsuit-Against-Online-Impersonation-Scam_Thumbnail-copy.jpg?fit=1440%2C1080);
+      background-size: cover;
+    height: 202px;
+    width: 269px;
+}
+.image7{
+    background-image: url(https://about.fb.com/wp-content/uploads/2022/06/Sustainability-Report-and-Climate-Opinion-Survey_Thumbnail.jpg?fit=1440%2C1080);
+    background-size: cover;
+    height: 202px;
+    width: 269px;
+}
+.image8{
+    background-image: url(https://about.fb.com/wp-content/uploads/2022/06/June-Communities-Bundle-Facebook-Groups_Thumbnail.jpg?fit=1440%2C1080);
+    background-size: cover;
+    height: 202px;
+    width: 269px;
+}
+
+.news-left-sidebar ul{
+    margin: 0px;
+    padding: 0px;
+}
+.news-left-sidebar ul li{
+    list-style: none;
+}
+.news-left-sidebar ul li a{
+    color: #766f6f;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 10px;
+    transition: 1s;
+}
+.news-left-sidebar ul li a:hover{
+    color: black;
+    transform:scale(1,1.1) ;
+
+}
+.news-left-sidebar h4{
+    color: #677b8c;
+    font-weight: 600px;
+    margin-bottom: 20px;
+}
+.footer-top{
+    background-color: #f1f2f4;
+    padding: 40px 0px;
+    margin-top: 110px;
+}
+.footer-top h3{
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+.footer-top h3:hover{
+    color: grey;
+    cursor: pointer;
+
+}
+.footer-top a{
+color: #766f6f;
+font-size: 17px;
+text-decoration: none;
+transition: 0.5s;
+
+}
+.footer-top a:hover{
+    color: black;
+    
+}
+footer{
+   
+    padding: 40px 0px;
+}
+.logo{
+    width: 77px;
+}
+.s-link{
+    font-weight: normal;
+    padding-top: 30px;
+}
+.s-link .fa-brands{
+    font-size: 25px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+footer h4{
+    font-family: 'Optimistic Display','NotoSans','NotoSansJP','NotoSansKR',sans-serif;
+    font-weight: 400 !important;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: .8px !important;
+  
+}
+footer ul{
+    margin: 0px;
+    padding: 0px;
+}
+footer ul li{
+    list-style: none;
+    margin-bottom: 10px;
+}
+footer ul li a{
+    text-decoration: none;
+    color: grey;
+    list-style: none;
+    font-size: 12px;
+}
+.h{
+    margin-top: 83px;
+}
+.h4{
+    margin-top: 42px;
+}
+.bottom-section{
+    padding-top: 100px;
+   
+    
+}
+
+
+.final{
+    font-size: var(--footer-select-size,12px);
+    letter-spacing: var(--footer-select-spacing,.03em);
+}
+
